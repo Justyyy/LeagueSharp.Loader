@@ -45,6 +45,7 @@ Contributors
 <repo>https://github.com/Soresu/LeagueSharp</repo>
 <repo>https://github.com/TheSaltyWaffle/LeagueSharp</repo>
 <repo>https://github.com/RoachxD/LeagueSharp</repo>
+<repo>https://github.com/Justyyy/LeagueSharp</repo>
 
 Known Users
 -----------
